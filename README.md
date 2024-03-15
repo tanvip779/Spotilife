@@ -9,6 +9,7 @@
 # Source:
 - [Spotify v8.5.60](https://apps.apple.com/app/spotify-music-and-podcasts/id324684580) - From the App Store.
 - [Spotilife v1.8](https://julio.hackyouriphone.org/./debfiles/com.julioverne.spotilife_1.8_iphoneos-arm.deb) - To unlock Spotify premium features.
+- [App Store++](https://github.com/CokePokes/AppStorePlus-TrollStore) - Downgrade Spotify to version 8.5.60.
 - [TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - For decrypting the Spotify app.
 - [NoAppThinning](https://alias20.gitlab.io/apt/debs/it.ned.noappthinning_1.1_iphoneos-arm64.deb) - To avoid Spotify ipa getting thinned.
 - [Sideloadly](https://sideloadly.io/) - Used for injecting Spotilife in to Spotify.
